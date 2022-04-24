@@ -1,0 +1,16 @@
+PODS:
+  - LQGBaseAppDelegate (1.0.0)
+
+DEPENDENCIES:
+  - LQGBaseAppDelegate (from `../`)
+
+EXTERNAL SOURCES:
+  LQGBaseAppDelegate:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LQGBaseAppDelegate: 095d6872f5f45c91e4a4ff3d0f8deb05a120491b
+
+PODFILE CHECKSUM: 427497cc12a54735503c840474bc5c841ae38745
+
+COCOAPODS: 1.11.2
